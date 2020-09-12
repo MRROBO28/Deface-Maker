@@ -1,5 +1,5 @@
 # Deface-Maker
-Penggunaan :\
+Penggunaan :
 <Pre><code>
 apt update && apt upgrade
 pkg install python2 git
