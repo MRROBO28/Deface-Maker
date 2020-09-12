@@ -1,1 +1,1 @@
-mv DefMak.html /sdcard
+mv ../DefMak.html /sdcard
